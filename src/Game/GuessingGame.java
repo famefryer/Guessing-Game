@@ -79,7 +79,6 @@ public class GuessingGame {
 	public void setCount(){
 		count = this.count+1;
 	} 
-	
 
 
 }
