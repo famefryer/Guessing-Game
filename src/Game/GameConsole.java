@@ -1,4 +1,4 @@
-package Game;
+package game;
 import java.util.Scanner;
 import java.util.Random;
 public class GameConsole {

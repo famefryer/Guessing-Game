@@ -1,7 +1,7 @@
-package Game;
+package game;
 import java.util.Random;
 /** 
- * Game of guessing a secret number.
+* Game of guessing a secret number.
  * @author Triwith Mutitakul             
  */
 
@@ -41,7 +41,7 @@ public class GuessingGame {
 		if(number==secret){
 			return true;
 		}
-		else{
+		ea--lse{
 			return false;
 		}
 	}
