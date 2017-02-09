@@ -1,6 +1,11 @@
 package game;
 import java.util.Scanner;
 import java.util.Random;
+/**
+ * The console of the program. 
+ * @author Triwith Mutitakul
+ *
+ */
 public class GameConsole {
 	/** called object GuessingGame and use it. 
 	 * 
