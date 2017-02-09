@@ -41,7 +41,7 @@ public class GuessingGame {
 		if(number==secret){
 			return true;
 		}
-		ea--lse{
+		else{
 			return false;
 		}
 	}
